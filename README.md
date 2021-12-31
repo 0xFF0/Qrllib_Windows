@@ -19,6 +19,7 @@ This project is a PoC developped during the [QRL Winter Hackathon 2021](https://
 
 3) When you’re done, you can perform a final test:
 	
+		C:\src\qrllib>set PATH=%PATH%;C:\msys64\mingw64\bin;c:\opt\bin;c:\opt\swigwin
 		C:\src\qrllib>python setup.py test
 	 
 <p align="center">
